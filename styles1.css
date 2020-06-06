@@ -1,0 +1,240 @@
+
+@font-face {
+  font-family: "ubuntu";
+  src: url(Ubuntu/Ubuntu-Regular.ttf);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #B3615E;
+  height: 100%;
+}
+
+main {
+  margin-top: 90px;
+}
+
+/* Navigation system */
+nav.nav-bar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  right: 0;
+  margin: 0;
+  display: flex;
+  background-color: black;
+  padding: 10px;
+  align-items: center;
+}
+
+.nav-bar a {
+  text-decoration: none;
+}
+
+.nav-bar div {
+  margin-left: 20px;
+  width: 100%;
+}
+
+.nav-bar li {
+  display: inline-block;
+  color: #B3615E;
+  font-family: "ubuntu";
+  font-size: 25px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 10px;
+}
+
+ .nav-bar h1 {
+  color: #B3615E;
+  font-family: "ubuntu";
+  font-style: italic;
+  width: 108px;
+  display: inline-block;
+  margin: 0;
+  margin-left: 10px;
+}
+
+  .nav-bar img {
+  width: 50px;
+  border-radius: 50%;
+  display: inline-block;
+}
+
+/* Bio section */
+
+div.biography {
+  display: inline-block;
+  vertical-align: bottom;
+}
+
+.biography h1 {
+  font-family: "ubuntu";
+  padding: 20px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.biography li {
+  font-family: "ubuntu";
+  padding-left: 20px;
+  margin-top: 0;
+  list-style: none;
+}
+
+.bio-section img {
+  width: 250px;
+  padding-top: 100px;
+  vertical-align: middle;
+  margin-left: 30px;
+  display: inline-block;
+  border-radius: 30%;
+}
+
+.biography img {
+  width: 120px;
+  display: inline-block;
+}
+
+div.blocks{
+  display: inline-block;
+}
+
+.blocks img {
+  display: inline-block;
+}
+
+#block1 {
+  width: 50px;
+}
+
+#block2 {
+  width: 75px;
+}
+
+#block3 {
+  width: 125px;
+}
+
+/* Landing page */
+div.intro {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+  background-color: #4D85B3;
+}
+
+.intro img{
+  display: inline-block;
+  margin-left: auto;
+  width: 120px;
+  margin-bottom: 0;
+}
+
+.intro p{
+  font-family: "ubuntu";
+  font-size: 40px;
+  font-weight:bolder;
+  margin: 20px;
+  display: inline-flex;
+  margin-bottom: 0;
+}
+
+div.blocked {
+  margin-left: 30px;
+  display: inline;
+  margin-bottom: 0;
+}
+
+/* Projects display */
+
+.projects p {
+  padding: 20px;
+  margin: 0;
+  padding-bottom: 0;
+  font-family: "ubuntu";
+  font-style: italic;
+  font-size: 20px;
+}
+
+div.project-wrapper {
+  display: inline-block;
+  background-color: #B0B370;
+  margin: 0px;
+  margin-left: 20px;
+  border: 2px solid black;
+  width: auto;
+}
+
+.project-wrapper h1 {
+  text-align: center;
+}
+
+.project-wrapper p {
+  margin: 0;
+  padding: 0;
+}
+
+.project-wrapper img {
+  max-height: 200px;
+  padding: 10px;
+  padding-top: 0;
+  padding-bottom: 0;
+  border: 1px solid black;
+}
+
+#beadroller{
+  margin-left: 45px;
+}
+
+.project-wrapper h1{
+  font-size: 20px;
+  margin: 0;
+}
+
+.project-wrapper p {
+  margin: 10px;
+  margin-bottom: 0;
+}
+
+#whole-brain {
+  height: 200px;
+  padding: 60px;
+  padding-left: 160px;
+  vertical-align: top;
+  padding-bottom: 0;
+}
+
+/* Projects page */
+
+.main p {
+  font-family: "ubuntu";
+  padding-left: 20px;
+  font-weight: bolder;
+}
+
+div.info-wrapper {
+  display: inline-block;
+  padding-top: 20px;
+}
+
+p.DetailedDescription {
+  width: 280px;
+}
+
+div.description-box {
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 5px;
+}
+
+p {
+  font-family: "ubuntu";
+  padding-left: 20px;
+}
+
+#brd {
+  width: 350px;
+}
