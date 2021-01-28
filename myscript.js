@@ -17,7 +17,7 @@
       <a href="https://www.facebook.com/nublockchain/">
         <li> Blockchain </li>
       </a>
-      <a href="Resume.pdf">
+      <a href="Resume_Guadiana_Gilberto.pdf">
         <li> Resume </li>
       </a>
       <a href="bio.html">

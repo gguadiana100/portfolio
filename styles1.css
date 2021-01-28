@@ -162,7 +162,7 @@ div.blocked {
 div.project-wrapper {
   display: inline-block;
   background-color: #B0B370;
-  margin: 0px;
+  margin: 20px;
   margin-left: 20px;
   border: 2px solid black;
   width: auto;
@@ -179,10 +179,15 @@ div.project-wrapper {
 
 .project-wrapper img {
   max-height: 200px;
-  padding: 10px;
+  text-align: center;
+  /* margin-left: auto;
+  margin-right: auto; */
+  margin-left:20px;
+  margin-right:20px;
+  display:block;
   padding-top: 0;
   padding-bottom: 0;
-  border: 1px solid black;
+  border: 2px solid black;
 }
 
 #beadroller{
@@ -228,6 +233,7 @@ div.description-box {
   display: inline-block;
   vertical-align: top;
   padding-right: 5px;
+  margin-bottom: 10px;
 }
 
 p {
@@ -237,4 +243,8 @@ p {
 
 #brd {
   width: 350px;
+}
+
+video{
+  padding: 10px;
 }
