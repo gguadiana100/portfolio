@@ -23,4 +23,7 @@
       <a href="bio.html">
         <li> Bio </li>
       </a>
+      <a href="https://github.com/gguadiana100">
+        <li> GitHub </li>
+      </a>
   </div>`;
