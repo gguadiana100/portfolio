@@ -21,9 +21,9 @@
       <a href="Resume_Guadiana_Gilberto.pdf">
         <li> Resume </li>
       </a>
-      <a href="bio.html">
+      <!-- <a href="bio.html">
         <li> Bio </li>
-      </a>
+      </a> -->
       <a href="https://github.com/gguadiana100">
         <li> GitHub </li>
       </a>
