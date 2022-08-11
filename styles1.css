@@ -63,6 +63,10 @@ nav.nav-bar {
   display: inline-block;
 }
 
+#navIcon {
+  margin-left: 10px;
+}
+
 /* Bio section */
 
 div.biography {
@@ -126,25 +130,21 @@ div.intro {
   background-color: #4D85B3;
 }
 
-.intro img{
-  display: inline-block;
-  margin-left: auto;
-  width: 120px;
-  margin-bottom: 0;
-}
-
 .intro p{
   font-family: "ubuntu";
   font-size: 40px;
   font-weight:bolder;
-  margin: 20px;
+  /* margin: 20px; */
   display: inline-flex;
   margin-bottom: 0;
 }
 
-div.blocked {
-  margin-left: 30px;
-  display: inline;
+.intro h1{
+  font-family: "ubuntu";
+  font-size: 20px;
+  font-weight:bolder;
+  margin: 20px;
+  display: inline-flex;
   margin-bottom: 0;
 }
 

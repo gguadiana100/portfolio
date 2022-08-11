@@ -3,8 +3,9 @@
   `<a href="index.html">
     <h1>Gilberto Guadiana</h1>
   </a>
+
   <a href="index.html">
-    <img src="images/mugshot.jpg">
+    <img id="navIcon" src="images/mugshot.jpg">
   </a>
 
   <div class="nav-options">
