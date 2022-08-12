@@ -226,7 +226,7 @@ div.info-wrapper {
 }
 
 p.DetailedDescription {
-  width: 280px;
+  width: 350px;
 }
 
 div.description-box {
@@ -242,7 +242,7 @@ p {
 }
 
 #brd {
-  width: 350px;
+  /* width: 350px; */
 }
 
 video{
