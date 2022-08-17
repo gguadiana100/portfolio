@@ -194,6 +194,12 @@ div.project-wrapper {
   margin-left: 45px;
 }
 
+#shakeTable{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .project-wrapper h1{
   font-size: 20px;
   margin: 0;
